@@ -1,14 +1,20 @@
-### Olá, Eu sou o Yuri Carias 🖐️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Yuri+Carias;Tenho+26+anos;Sou+de+Recife-PE+;Estiy+Cursando+Atualemente+3º+Periodo+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuricarias12&bg_color=0d0c0d&color=37e015&line=37f312&point=f13709&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-carias-b432b4177/)
 
-![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yuricarias12&show_icons=true&theme=radical)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuricarias12&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Carias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricarias12&layout=compact&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricarias12)](https://github.com/yuricarias12/github-readme-stats)
 
-
-## Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br />
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -17,7 +23,16 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
-<br/>
-📙 Estudando Java
-📘Estudando React
+
+
+### Estudando no momento:
+<div style="display: inline_block"><br />
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
 
